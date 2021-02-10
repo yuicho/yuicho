@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**yuicho/yuicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Who am I
+## Name
+Yuicho
+## Work
+* Server engineer
+* Network engineer
+* Vocalist, MC and ETC. ( https://www.4ushiyu.jp/ )
+## SocialAccounts
+| Service | ID |
+| - | - |
+| Twitter | [@yu1ch0](https://twitter.com/yu1ch0) |
+| Blog | https://yuicho.hateblo.jp |
