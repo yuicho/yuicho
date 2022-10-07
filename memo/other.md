@@ -6,3 +6,10 @@
 chrome://accessibility/
 ```
 後はそのURLを開いてごネゴねすればよい。
+
+## KDE入れてxrdp動かすやつ
+とりあえずメモ、他にも必要なことあるかも
+```
+apt install kde-plasma-desktop xrdp xorgxrdp
+apt install task-japanese-kde-desktop
+```
